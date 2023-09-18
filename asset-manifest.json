@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/level-up-cooking/static/css/main.e07a9b37.css",
+    "main.js": "/level-up-cooking/static/js/main.af64abc2.js",
+    "index.html": "/level-up-cooking/index.html",
+    "main.e07a9b37.css.map": "/level-up-cooking/static/css/main.e07a9b37.css.map",
+    "main.af64abc2.js.map": "/level-up-cooking/static/js/main.af64abc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e07a9b37.css",
+    "static/js/main.af64abc2.js"
+  ]
+}
