@@ -13,10 +13,15 @@ header {
     color: rgb(255, 255, 255);
     text-align: center;
     background-color: rgb(85, 20, 20);
+   border-bottom: 5px solid white;
 }
 
 main {
     min-height: 87vh;
+}
+
+.page {
+    border-top: 8px solid white;
 }
 
 footer {

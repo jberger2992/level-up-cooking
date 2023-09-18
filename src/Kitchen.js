@@ -12,7 +12,7 @@ function Kitchen() {
     ]
 
     return(<>
-        <div>
+        <div className="page">
             {kitchenData.map(data=><KitchenCard key={data.id} name={data.name} description={data.description} link={data.link}/>)}
         </div>
     </>)

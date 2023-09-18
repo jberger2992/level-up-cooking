@@ -4,6 +4,7 @@ import Header from "./Header";
 import Nav from "./Nav";
 import Home from "./Home";
 import Kitchen from "./Kitchen";
+import Recipes from "./Recipes";
 import Footer from "./Footer";
 
 function App() {
@@ -15,6 +16,8 @@ function App() {
       return <Home/>;
     } else if (page === "kitchen"){
       return <Kitchen/>
+    } else if (page === "recipes"){
+      return <Recipes/>
     }
   }
 
